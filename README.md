@@ -1,5 +1,8 @@
 # Dynamic Entities Demo
 
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 ## What You Will Need
 *  [Amazon Developer Account](http://developer.amazon.com/alexa)
 *  (Optional) [Amazon Web Services Account](http://aws.amazon.com/)
